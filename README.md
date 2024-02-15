@@ -22,12 +22,13 @@
 5. Collaborating with diverse teams to bring ideas to life 🤝
 6. Exploring the intersections of technology and creativity 🌐🎨
 
-## ⚡ Github Stats:
+## ⚡ Top Languages:
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujith-kamme&layout=compact)](https://github.com/sujith-kamme)
+
+
 
 💬 Ask me about anything, I am happy to help 😄
 📬 How to reach me: [Let's get in touch!](mailto:kammesujith27@gmail.com)
-
-
-![Sujith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujith-kamme&show_icons=true)
 
 Show some ❤️ by starring some of the repositories!
