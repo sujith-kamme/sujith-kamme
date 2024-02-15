@@ -3,21 +3,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamme-sujith-0979941a7/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sujithkamme)
 
-## Skills:
+## Languages and Tools:
 
-<img align="left" alt="Python" width="50px" src="https://img.icons8.com/color/452/python.png" />
-<img align="left" alt="SQL" width="50px" src="https://your-sql-image-url.png" />
-<img align="left" alt="Git" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="Docker" width="50px" src="https://img.icons8.com/color/452/docker.png" />
-<img align="left" alt="Machine Learning" width="50px" src="https://your-ml-image-url.png" />
-<img align="left" alt="Data Science" width="50px" src="https://your-data-science-image-url.png" />
-<img align="left" alt="AWS" width="50px" src="https://img.icons8.com/color/452/amazon-web-services.png" />
-
-
-
-
-
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-008080?style=for-the-badge&logo=data-science&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Things I love:
 
@@ -30,10 +24,10 @@
 
 ## ⚡ Github Stats:
 
-💬 Ask me about anything; I am happy to help 😄
+💬 Ask me about anything, I am happy to help 😄
 📬 How to reach me: [Let's get in touch!](mailto:kammesujith27@gmail.com)
 
 
-![Sujith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujith-kamme&show_icons=true&theme=radical)
+![Sujith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujith-kamme&show_icons=true)
 
 Show some ❤️ by starring some of the repositories!
