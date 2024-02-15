@@ -22,9 +22,6 @@
 5. Collaborating with diverse teams to bring ideas to life 🤝
 6. Exploring the intersections of technology and creativity 🌐🎨
 
-## ⚡ Top Languages:
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujith-kamme&layout=compact)](https://github.com/sujith-kamme)
 
 
 
