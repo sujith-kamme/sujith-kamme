@@ -39,8 +39,7 @@ Aspiring Data Scientist with a solid foundation in data analysis and a proven tr
 
 <div width="100%" align="center"><a href="https://github.com/sujith-kamme/Cross-Sell-Insight" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujith-kamme&repo=Cross-Sell-Insight&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/sujith-kamme/Project-ISQL" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujith-kamme&repo=Project-ISQL&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
+<br /><br /><br />
 
 Show some ❤️ by starring some of the repositories!
 
