@@ -6,10 +6,10 @@
 ## Skills:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=sci-kit-learn&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-008080?style=for-the-badge&logo=jupyter&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -27,7 +27,7 @@
 💬 Ask me about anything, I am happy to help 😄
 📬 How to reach me: [Let's get in touch!](mailto:kammesujith27@gmail.com)
 
-![Sujith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujith-kamme&show_icons=true&theme=radical)
 
+![Sujith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujith-kamme&show_icons=true&theme=radical)
 
 Show some ❤️ by starring some of the repositories!
