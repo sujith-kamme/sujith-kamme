@@ -6,13 +6,18 @@
 ## Skills:
 
 <img align="left" alt="Python" width="50px" src="https://img.icons8.com/color/452/python.png" />
-<img align="left" alt="SQL" width="50px" src="https://img.icons8.com/color/452/sql.png" />
+<img align="left" alt="SQL" width="50px" src="https://your-sql-image-url.png" />
 <img align="left" alt="Git" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="Docker" width="50px" src="https://img.icons8.com/color/452/docker.png" />
-<img align="left" alt="Machine Learning" width="50px" src="https://img.icons8.com/color/452/machine-learning.png" />
-<img align="left" alt="Data Science" width="50px" src="https://img.icons8.com/bubbles/2x/jupyter.png" />
+<img align="left" alt="Machine Learning" width="50px" src="https://your-ml-image-url.png" />
+<img align="left" alt="Data Science" width="50px" src="https://your-data-science-image-url.png" />
 <img align="left" alt="AWS" width="50px" src="https://img.icons8.com/color/452/amazon-web-services.png" />
-<br>
+
+
+
+
+
+
 
 ## Things I love:
 
@@ -29,6 +34,6 @@
 📬 How to reach me: [Let's get in touch!](mailto:kammesujith27@gmail.com)
 
 
-![Sujith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujith-kamme&show_icons=true)
+![Sujith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujith-kamme&show_icons=true&theme=radical)
 
 Show some ❤️ by starring some of the repositories!
