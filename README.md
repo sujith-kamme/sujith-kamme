@@ -34,7 +34,7 @@ Aspiring Data Scientist with a solid foundation in data analysis and a proven tr
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </a>
     <a href="https://www.kaggle.com/sujithkamme" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/kaggle.png" width="32" height="32" />
+    <img src="https://fontawesome.com/icons/kaggle?f=brands&s=solid" width="32" height="32" />
     </a>
 </p>
 
