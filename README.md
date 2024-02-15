@@ -5,13 +5,13 @@
 
 ## Skills:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=sci-kit-learn&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-008080?style=for-the-badge&logo=jupyter&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="SQL" width="50px" src="https://img.icons8.com/color/452/sql.png" />
+<img align="left" alt="Git" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+<img align="left" alt="Docker" width="50px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
+<img align="left" alt="Machine Learning" width="50px" src="https://img.icons8.com/color/452/machine-learning.png" />
+<img align="left" alt="Data Science" width="50px" src="https://img.icons8.com/bubbles/2x/jupyter.png" />
+<img align="left" alt="AWS" width="50px" src="https://img.icons8.com/color/452/amazon-web-services.png" />
 
 ## Things I love:
 
@@ -24,10 +24,10 @@
 
 ## ⚡ Github Stats:
 
-💬 Ask me about anything, I am happy to help 😄
+💬 Ask me about anything; I am happy to help 😄
 📬 How to reach me: [Let's get in touch!](mailto:kammesujith27@gmail.com)
 
 
-![Sujith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujith-kamme&show_icons=true&theme=radical)
+![Sujith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujith-kamme&show_icons=true)
 
 Show some ❤️ by starring some of the repositories!
