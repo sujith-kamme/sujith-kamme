@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sujith Kamme!
 ====================================================================================================================================
 
-Aspiring Data Scientist with a solid foundation in data analysis and a proven track record as a Business Analyst with 2+ years of experience in vendor relationship management, project planning, and implementation. Recognized for visionary and creative thinking, alongside strong analytical skills to conceptualize solutions aligned with business objectives.
+Aspiring Data Scientist with a foundation in Data Analysis and Machine Learning, bringing over 2 years of experience in Business Analytics. Skilled in improving processes, products, and services, and providing data-driven recommendations to business stakeholders. Recognized with a CEO award for functional excellence on an individual basis.
 
 * 🌍  I'm based in Los Angeles
 * ✉️  💬 Ask me about anything, I am happy to help 😄. You can contact me at [kammesujith27@gmail.com](mailto:kammesujith27@gmail.com)
