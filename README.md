@@ -34,7 +34,7 @@ Aspiring Data Scientist with a solid foundation in Data Analysis and Machine Lea
 
 <b>My GitHub Stats</b>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujith-kamme&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujith-kamme&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujith-kamme&stroke=000000&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true)
 
 
