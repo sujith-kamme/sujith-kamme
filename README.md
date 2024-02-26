@@ -7,6 +7,9 @@ Aspiring Data Scientist with a solid foundation in Data Analysis and Machine Lea
 * ✉️  💬 Ask me about anything, I am happy to help 😄. You can contact me at [kammesujith27@gmail.com](mailto:kammesujith27@gmail.com)
 * 🤝  I'm open to collaborating on finance projects
 
+Feel free to explore my portfolio and get in touch if you have any questions or if there's an opportunity for us to work together.
+[Explore My Portfolio](https://sujith-kamme.github.io/)
+
 ### Things I Love
 - Extracting insights from data 📊
 - Creating impactful applications that increase efficiency 💻
