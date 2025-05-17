@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sujith Kamme!
 ====================================================================================================================================
 
-Aspiring Data Scientist with a solid foundation in Data Analysis and Machine Learning, bringing over 2 years of experience in Business Analytics. Skilled in optimizing processes, products, and services, and providing data-driven recommendations to business stakeholders. Recognized with a CEO award for "Functional Excellence - Individual", acknowledging my pivotal role in initiating and executing the 'Omnichannel Campaign Integration' project.
+Solves technical problems with a business mindset.
 
 * 🌍  I'm based in Los Angeles
 * ✉️  💬 Ask me about anything, I am happy to help 😄. You can contact me at [kammesujith27@gmail.com](mailto:kammesujith27@gmail.com)
@@ -29,7 +29,7 @@ Feel free to explore my portfolio and get in touch if you have any questions or 
 
 ### Socials
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamme-sujith-0979941a7/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamme-sujith/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sujithkamme)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kammesujith27)
 
