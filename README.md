@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sujith Kamme!
 ====================================================================================================================================
 
-Solves technical problems with a business mindset.
+Applies a business-oriented approach to solving technical problems, ensuring alignment with strategic goals.
 
 * 🌍  I'm based in Los Angeles
 * ✉️  💬 Ask me about anything, I am happy to help 😄. You can contact me at [kammesujith27@gmail.com](mailto:kammesujith27@gmail.com)
