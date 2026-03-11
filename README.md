@@ -17,31 +17,35 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="center">
 
 <a href="https://www.python.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="52"/>
 </a>
 
 <a href="https://numpy.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52" height="52"/>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52" height="52"/>
 </a>
 
 <a href="https://mlflow.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/mlflow" width="36" height="36"/>
+<img src="https://cdn.simpleicons.org/mlflow" width="52" height="52"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52" height="52"/>
 </a>
 
 <a href="https://www.tableau.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/tableau" width="36" height="36"/>
+<img src="https://cdn.simpleicons.org/tableau/E97627" width="52" height="52"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="52" height="52"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="52"/>
 </a>
 
 </p>
