@@ -14,42 +14,41 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Tools I Love Using
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.python.org/" target="_blank">
+<a href="https://www.python.org/" target="_blank" style="text-decoration:none; margin:0 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="68" height="68"/>
 </a>
 
-<a href="https://numpy.org/" target="_blank">
+<a href="https://numpy.org/" target="_blank" style="text-decoration:none; margin:0 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="68" height="68"/>
 </a>
 
-<a href="https://pandas.pydata.org/" target="_blank">
+<a href="https://pandas.pydata.org/" target="_blank" style="text-decoration:none; margin:0 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="68" height="68"/>
 </a>
 
-<a href="https://mlflow.org/" target="_blank">
+<a href="https://mlflow.org/" target="_blank" style="text-decoration:none; margin:0 10px;">
 <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="68" height="68"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank">
+<a href="https://www.docker.com/" target="_blank" style="text-decoration:none; margin:0 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="68" height="68"/>
 </a>
 
-<a href="https://www.tableau.com/" target="_blank">
+<a href="https://www.tableau.com/" target="_blank" style="text-decoration:none; margin:0 10px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="68" height="68"/>
 </a>
 
-<a href="https://powerbi.microsoft.com/" target="_blank">
+<a href="https://powerbi.microsoft.com/" target="_blank" style="text-decoration:none; margin:0 10px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="68" height="68"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
+<a href="https://www.mysql.com/" target="_blank" style="text-decoration:none; margin:0 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="68" height="68"/>
 </a>
 
 </p>
-
 
 ### 📫 Collab
 💬 Always open to conversations about **research, markets, and technology**.
