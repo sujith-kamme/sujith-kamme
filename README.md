@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 📈 Aspiring Quant Researcher currently exploring market inefficiencies through statistical arbitrage.
 
-### Things I Love
+#### Things I Love
 - Extracting insights from data 📊
 - Turning ideas into experiments and learning from the results 🔬
 - Solving complex problems with clean and efficient solutions 💡
@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Collaborating with curious and motivated people 🤝
 
 
-### Tools I Love Using
+#### Tools I Love Using
 
 <p align="left">
 
@@ -31,12 +31,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 
 <a href="https://www.docker.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="68" height="68" alt="Docker">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="80" alt="Docker">
 </a>
 
-<a href="https://www.tableau.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="68" height="68" alt="Tableau">
-</a>
 
 <a href="https://powerbi.microsoft.com/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="68" height="68" alt="Power BI">
@@ -48,7 +45,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </p>
 
-### 📫 Collab
+#### 📫 Collab
 💬 Always open to conversations about **research, markets, and technology**.
 📧 **Email:** [kammesujith27@gmail.com](mailto:kammesujith27@gmail.com)
 
