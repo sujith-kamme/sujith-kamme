@@ -29,11 +29,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 
 <a href="https://mlflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="60"/>
+<img src="https://cdn.simpleicons.org/mlflow" width="36" height="36"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36"/>
+</a>
+
+<a href="https://www.tableau.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/tableau" width="36" height="36"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
